@@ -1,0 +1,3 @@
+1. 更改cls.txt
+2. 放xml檔進去xml資料夾
+3. 執行 python xmltotxt.py -c cls.txt -xml xml -out out
